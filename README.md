@@ -4,9 +4,9 @@
 
 # Faraone
 
-Low-latency systems engineer building execution infrastructure, deterministic engines, and protocol/security tooling.
+⚙️ Low-latency systems engineer building execution infrastructure, deterministic engines, and protocol/security tooling.
 
-This profile is not a collection of toy repos. It is a compact map of systems built around measurable performance, replayability, testing, and real implementation depth.
+🧠 This profile is a compact map of systems built around measurable performance, replayability, testing, and real implementation depth.
 
 ## Focus
 
@@ -47,11 +47,11 @@ This profile is not a collection of toy repos. It is a compact map of systems bu
 
 ## Current Focus
 
-Building execution-grade systems with deterministic behavior, realistic constraints, and public technical proof.
+🚀 Building execution-grade systems with deterministic behavior, realistic constraints, and public technical proof.
 
 ## Links
 
-- LinkedIn: add-your-link
-- Best repo to start from: ZEUS-HFT-public
-- Contact: add-your-email-or-x
+- LinkedIn: [Ivan Piardi](https://ch.linkedin.com/in/ivan-piardi-33465a3a9)
+- Best repo to start from: [ZEUS-HFT-public](https://github.com/Faraone-Dev/ZEUS-HFT-public)
+- Contact: [LinkedIn](https://ch.linkedin.com/in/ivan-piardi-33465a3a9)
 
