@@ -25,7 +25,6 @@
 | **REVERSO** | Reversible transfer protocol with time-locked transfers, recovery paths, monitor contracts, and enterprise API | Solidity, TypeScript, Node.js | **109 tests**, **13,000+ fuzz runs**, **7 chains live**, **3 verified contracts** on Ethereum |
 | **SENTINEL** | Multi-chain wallet approval scanner with decompilation, heuristic analysis, and one-click revoke | Go, Rust, Python, React, Solidity | **16 EVM chains**, **30+ vulnerability patterns**, Redis/Postgres-backed API, Prometheus metrics |
 | **Sky-Scraper** | Large-scale smart contract security scanner with layered exploit analysis pipeline | Rust | **52 crates**, **51 engines**, **12 layers**, **1314 patterns**, **~99% precision**, **50+ exploit templates** |
-| **Titan Funded** | Prop trading challenge platform with deterministic rule engine, real-time risk checks, and Next.js dashboard | Rust, Axum, PostgreSQL, Redis, Next.js | **8 Rust crates**, challenge/risk/account/payment split, trader dashboard, broker bridge architecture |
 
 ## Verification
 
